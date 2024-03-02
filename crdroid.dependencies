@@ -1,0 +1,25 @@
+[
+  {
+    "repository":"crdroidandroid/android_kernel_xiaomi_camellia",
+    "target_path":"device/xiaomi/camellia-kernel"
+  },
+  {
+    "repository":"crdroidandroid/android_vendor_xiaomi_camellia",
+    "target_path":"vendor/xiaomi/camellia"
+    "branch":"14.0"
+  },
+  {
+    "repository":"PQEnablers-Devices/android_hardware_mediatek",
+    "target_path":"hardware/mediatek",
+    "branch":"lineage-21"
+  },
+  {
+    "repository":"PixelExperience/hardware_xiaomi",
+    "target_path":"hardware/xiaomi"
+  },
+  {
+    "repository":"PQEnablers-Devices/android_device_mediatek_sepolicy_vndr",
+    "target_path":"device/mediatek/sepolicy_vndr"
+    "branch":"lineage-21"
+  }
+]
