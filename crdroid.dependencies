@@ -21,5 +21,9 @@
     "repository":"PQEnablers-Devices/android_device_mediatek_sepolicy_vndr",
     "target_path":"device/mediatek/sepolicy_vndr"
     "branch":"lineage-21"
+  },
+  {
+    "repository":"TogoFire/packages_apps_ViPER4AndroidFX",
+    "target_path":"packages/apps/ViPER4AndroidFX"
   }
 ]
