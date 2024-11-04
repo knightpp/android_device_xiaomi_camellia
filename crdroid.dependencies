@@ -5,7 +5,7 @@
   },
   {
     "repository":"crdroidandroid/android_vendor_xiaomi_camellia",
-    "target_path":"vendor/xiaomi/camellia"
+    "target_path":"vendor/xiaomi/camellia",
     "branch":"14.0"
   },
   {
@@ -19,7 +19,7 @@
   },
   {
     "repository":"PQEnablers-Devices/android_device_mediatek_sepolicy_vndr",
-    "target_path":"device/mediatek/sepolicy_vndr"
+    "target_path":"device/mediatek/sepolicy_vndr",
     "branch":"lineage-21"
   },
   {
