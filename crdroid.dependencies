@@ -14,8 +14,9 @@
     "branch":"lineage-21"
   },
   {
-    "repository":"PixelExperience/hardware_xiaomi",
-    "target_path":"hardware/xiaomi"
+    "repository":"LineageOS/android_hardware_xiaomi",
+    "target_path":"hardware/xiaomi",
+    "branch":"lineage-21"
   },
   {
     "repository":"PQEnablers-Devices/android_device_mediatek_sepolicy_vndr",
