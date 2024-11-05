@@ -17,7 +17,6 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/emulated_storage.mk)
 $(call inherit-product, $(SRC_TARGET_DIR)/product/virtual_ab_ota.mk)
 
 PRODUCT_PACKAGES += \
-    com.android.hardware.boot \
     android.hardware.boot-service.default_recovery
 
 AB_OTA_POSTINSTALL_CONFIG += \
