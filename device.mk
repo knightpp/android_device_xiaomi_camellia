@@ -77,7 +77,7 @@ PRODUCT_COPY_FILES += \
     frameworks/av/services/audiopolicy/config/r_submix_audio_policy_configuration.xml:$(TARGET_COPY_OUT_VENDOR)/etc/r_submix_audio_policy_configuration.xml \
     frameworks/av/services/audiopolicy/config/usb_audio_policy_configuration.xml:$(TARGET_COPY_OUT_VENDOR)/etc/usb_audio_policy_configuration.xml
 
-# Qpr2 Patches
+# QPR2 Patches
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/libs/bin/bpfloader:$(TARGET_COPY_OUT_SYSTEM)/bin/bpfloader \
     $(LOCAL_PATH)/libs/etc/init/bpfloader.rc:$(TARGET_COPY_OUT_SYSTEM)/etc/init/bpfloader.rc \
